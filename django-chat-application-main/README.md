@@ -13,11 +13,14 @@ Follow these steps to set up the project locally:
 ## Prerequisites
 Python 3.8+
 Django 4.0+
+
+## OUTPUT
+![result](https://github.com/user-attachments/assets/df766706-8b7e-4628-917f-4b8017bc72fd)
+
 Virtual environment tools (optional but recommended)
 Steps
-Clone the Repository
 
-
+## Clone the Repository
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 Set Up a Virtual Environment (optional)
